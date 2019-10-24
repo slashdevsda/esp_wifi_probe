@@ -25,6 +25,12 @@ $ pio device monitor
 
 ## Setup
 
+
+![overview](./images/overview.png)
+
+_esp8266 mounted on a Weemos d1 mini_
+
+
 I use a _Raspberry Pi_ as an access point - every sensor I use connects itself to this wireless access.
 This device is also host an influxdb instance.
 
