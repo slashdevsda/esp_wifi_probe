@@ -1,13 +1,4 @@
-/**
- * Blink
- *
- * Turns on an LED on for one second,
- * then off for one second, repeatedly.
- */
-
-#include "Arduino.h"
 #include <ESP8266WiFi.h>
-#include <Adafruit_Sensor.h>
 #include <DHT.h>
 #include <DHT_U.h>
 #include "ESPAsyncUDP.h"
